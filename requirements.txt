@@ -1,0 +1,12 @@
+pyTelegramBotAPI
+psutil
+opencv-python
+pyautogui
+pillow
+keyboard
+pywin32
+cryptography
+sounddevice
+scipy
+numpy
+pycaw
