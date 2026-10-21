@@ -22,8 +22,8 @@ from cryptography.fernet import Fernet
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
 
 # ================= НАСТРОЙКИ =================
-BOT_TOKEN = "ТВОЙ_ТОКЕН"
-ADMIN_ID = 123456789
+BOT_TOKEN = "8870553187:AAHDDpqsXzkUo7aqacrX_y1DbnTIEa121ug"
+ADMIN_ID = 8224529558
 bot = telebot.TeleBot(BOT_TOKEN)
 current_dir = os.getcwd()
 
